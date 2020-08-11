@@ -1,0 +1,24 @@
+Test GET:
+http://people.duke.edu/~bmr23/ece568/class.html
+http://home.sina.com/
+http://www.artsci.utoronto.ca/futurestudents
+
+GET pdf
+http://people.duke.edu/~bmr23/ece568/homework/hw1/hw1.pdf    (Will down load to your local)
+
+Get audio
+http://people.duke.edu/~bmr23/ece568/slides/server_protocol_concepts.mp3
+
+GET chunk
+http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx
+
+Test CONNECT
+https://www.google.com/
+https://bme.duke.edu/
+https://www.rabihyounes.com/#
+https://www.youtube.com/
+https://www.youku.com/
+
+Test POST
+http://httpbin.org/forms/post
+

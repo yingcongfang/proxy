@@ -1,0 +1,12 @@
+string s1="Cache-Control: no-cache\r\n";
+  parsing p1(s1);
+  cout<<"should be 3"<<p1.findCache()<<endl;
+  string s2="Cache-Control: no-store\r\n";
+  parsing p2(s2);
+  cout<<"should be 2"<<p2.findCache()<<endl;
+  string s3("Cache-Control: max-age=<15>\r\n");
+  parsing p3(s3);
+  cout<<"should be 4"<<p3.findCache()<<" Age: "<<p3.findAge()<<endl;
+  string s4="Cache-Control: s-maxage=<65>\r\n";
+  parsing p4(s4);
+  cout<<"should be 4"<<p4.findCache()<<" Age: "<<p4.findAge()<<endl;

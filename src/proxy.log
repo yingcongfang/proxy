@@ -1,0 +1,1087 @@
+100: "GET" from client @ Sat Feb 29 01:53:34 2020
+100: not in cache
+100: Requesting "GET" from detectportal.firefox.com
+101: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+101: not in cache
+101: Requesting "CONNECT" from content-signature-2.cdn.mozilla.net
+100: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+100: not cacheable because Cache Control: no-store
+101: Responding "HTTP/1.1 200 OK"
+101: Tunnel closed
+102: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+102: not in cache
+102: Requesting "CONNECT" from home.firefoxchina.cn
+103: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+103: not in cache
+103: Requesting "CONNECT" from tracking.firefox.com.cn
+102: Responding "HTTP/1.1 200 OK"
+103: Responding "HTTP/1.1 200 OK"
+104: "POST" from client @ Sat Feb 29 01:53:34 2020
+104: not in cache
+104: Requesting "POST" from status.rapidssl.com
+105: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+105: not in cache
+105: Requesting "CONNECT" from incoming.telemetry.mozilla.org
+104: Received "HTTP/1.1 200 OK" from status.rapidssl.com
+105: Responding "HTTP/1.1 200 OK"
+102: Tunnel closed
+106: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+106: not in cache
+106: Requesting "CONNECT" from firefox.settings.services.mozilla.com
+107: "GET" from client @ Sat Feb 29 01:53:34 2020
+107: not in cache
+108: "GET" from client @ Sat Feb 29 01:53:34 2020
+108: not in cache
+109: "GET" from client @ Sat Feb 29 01:53:34 2020
+109: not in cache
+110: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+108: Requesting "GET" from addons.g-fox.cn
+110: not in cache
+111: "POST" from client @ Sat Feb 29 01:53:34 2020
+111: not in cache
+112: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+112: not in cache
+113: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+113: not in cache
+114: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+114: not in cache
+115: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+115: not in cache
+116: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+116: not in cache
+117: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+117: not in cache
+107: Requesting "GET" from addons.g-fox.cn
+118: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+118: not in cache
+113: Requesting "CONNECT" from home.firefoxchina.cn
+119: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+119: not in cache
+111: Requesting "POST" from ocsp.digicert.com
+118: Requesting "CONNECT" from offlintab.firefoxchina.cn
+120: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+119: Requesting "CONNECT" from home.firefoxchina.cn
+120: not in cache
+116: Requesting "CONNECT" from home.firefoxchina.cn
+117: Requesting "CONNECT" from entry.baidu.com
+115: Requesting "CONNECT" from static.firefoxchina.cn
+114: Requesting "CONNECT" from static.firefoxchina.cn
+121: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+121: not in cache
+110: Requesting "CONNECT" from safebrowsing.googleapis.com
+109: Requesting "GET" from addons.g-fox.cn
+120: Requesting "CONNECT" from static.firefoxchina.cn
+122: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+112: Requesting "CONNECT" from home.firefoxchina.cn
+122: not in cache
+123: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+123: not in cache
+124: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+124: not in cache
+125: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+125: not in cache
+126: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+126: not in cache
+127: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+127: not in cache
+128: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+128: not in cache
+129: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+129: not in cache
+130: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+130: not in cache
+131: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+131: not in cache
+132: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+132: not in cache
+133: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+133: not in cache
+134: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+134: not in cache
+134: Requesting "CONNECT" from home.firefoxchina.cn
+135: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+135: not in cache
+136: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+136: not in cache
+137: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+137: not in cache
+133: Requesting "CONNECT" from home.firefoxchina.cn
+110: Responding "HTTP/1.1 200 OK"
+116: Responding "HTTP/1.1 200 OK"
+116: Tunnel closed
+112: Responding "HTTP/1.1 200 OK"
+112: Tunnel closed
+138: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+119: Responding "HTTP/1.1 200 OK"
+138: not in cache
+119: Tunnel closed
+138: Requesting "CONNECT" from static.firefoxchina.cn
+136: Requesting "CONNECT" from static.firefoxchina.cn
+125: Requesting "CONNECT" from static.huohu123.com
+135: Requesting "CONNECT" from home.firefoxchina.cn
+128: Requesting "CONNECT" from static.huohu123.com
+137: Requesting "CONNECT" from static.firefoxchina.cn
+124: Requesting "CONNECT" from www.duba.com
+121: Requesting "CONNECT" from home.firefoxchina.cn
+123: Requesting "CONNECT" from static.firefoxchina.cn
+122: Requesting "CONNECT" from bookmarks-ssl.firefoxchina.cn
+131: Requesting "CONNECT" from home.firefoxchina.cn
+126: Requesting "CONNECT" from static.huohu123.com
+132: Requesting "CONNECT" from home.firefoxchina.cn
+130: Requesting "CONNECT" from static.huohu123.com
+129: Requesting "CONNECT" from static.huohu123.com
+127: Requesting "CONNECT" from static.huohu123.com
+135: Responding "HTTP/1.1 200 OK"
+106: Responding "HTTP/1.1 200 OK"
+131: Responding "HTTP/1.1 200 OK"
+131: Tunnel closed
+111: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+122: Responding "HTTP/1.1 200 OK"
+106: Tunnel closed
+108: Received "HTTP/1.1 200 OK" from addons.g-fox.cn
+108: cached, expires at Sat Feb 29 01:53:50 2020
+107: Received "HTTP/1.1 200 OK" from addons.g-fox.cn
+107: cached, expires at Sat Feb 29 01:53:50 2020
+117: Responding "HTTP/1.1 200 OK"
+109: Received "HTTP/1.1 200 OK" from addons.g-fox.cn
+109: cached, expires at Sat Feb 29 01:53:50 2020
+139: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+139: not in cache
+139: Requesting "CONNECT" from publish-pic-cpu.baidu.com
+140: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+140: not in cache
+141: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+141: not in cache
+141: Requesting "CONNECT" from publish-pic-cpu.baidu.com
+142: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+142: not in cache
+142: Requesting "CONNECT" from publish-pic-cpu.baidu.com
+143: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+143: not in cache
+143: Requesting "CONNECT" from publish-pic-cpu.baidu.com
+144: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+144: not in cache
+144: Requesting "CONNECT" from home.firefoxchina.cn
+145: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+145: not in cache
+145: Requesting "CONNECT" from fragment2.firefoxchina.cn
+146: "GET" from client @ Sat Feb 29 01:53:34 2020
+146: not in cache
+146: Requesting "GET" from addons.g-fox.cn
+147: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+147: not in cache
+147: Requesting "CONNECT" from home.firefoxchina.cn
+148: "GET" from client @ Sat Feb 29 01:53:34 2020
+148: not in cache
+148: Requesting "GET" from detectportal.firefox.com
+149: "GET" from client @ Sat Feb 29 01:53:34 2020
+149: not in cache
+150: "POST" from client @ Sat Feb 29 01:53:34 2020
+150: not in cache
+151: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+151: not in cache
+152: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+152: not in cache
+152: Requesting "CONNECT" from static.huohu123.com
+153: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+153: not in cache
+154: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+154: not in cache
+151: Requesting "CONNECT" from firefox.settings.services.mozilla.com
+150: Requesting "POST" from ocsp.pki.goog
+149: Requesting "GET" from adu.g-fox.cn
+154: Requesting "CONNECT" from www.baidu.com
+153: Requesting "CONNECT" from static.huohu123.com
+140: Requesting "CONNECT" from nspt.bdstatic.com
+148: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+148: not cacheable because Cache Control: no-store
+151: Responding "HTTP/1.1 200 OK"
+118: Responding "HTTP/1.1 200 OK"
+150: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+121: Responding "HTTP/1.1 200 OK"
+121: Tunnel closed
+134: Responding "HTTP/1.1 200 OK"
+113: Responding "HTTP/1.1 200 OK"
+113: Tunnel closed
+133: Responding "HTTP/1.1 200 OK"
+133: Tunnel closed
+155: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+155: not in cache
+155: Requesting "CONNECT" from www.baidu.com
+147: Responding "HTTP/1.1 200 OK"
+132: Responding "HTTP/1.1 200 OK"
+144: Responding "HTTP/1.1 200 OK"
+132: Tunnel closed
+154: Responding "HTTP/1.1 200 OK"
+154: Tunnel closed
+155: Responding "HTTP/1.1 200 OK"
+156: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+156: not in cache
+156: Requesting "CONNECT" from snippets.cdn.mozilla.net
+155: Tunnel closed
+156: Responding "HTTP/1.1 200 OK"
+124: Responding "HTTP/1.1 200 OK"
+157: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+157: not in cache
+157: Requesting "CONNECT" from www.baidu.com
+146: Received "HTTP/1.1 200 OK" from addons.g-fox.cn
+146: cached, expires at Sat Feb 29 01:53:50 2020
+138: Responding "HTTP/1.1 200 OK"
+138: Tunnel closed
+157: Responding "HTTP/1.1 200 OK"
+157: Tunnel closed
+158: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+158: not in cache
+158: Requesting "CONNECT" from www.baidu.com
+159: "POST" from client @ Sat Feb 29 01:53:34 2020
+159: not in cache
+159: Requesting "POST" from ocsp2.globalsign.com
+149: Received "HTTP/1.1 200 OK" from adu.g-fox.cn
+149: not cacheable because Cache Control: no-store
+158: Responding "HTTP/1.1 200 OK"
+159: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+158: Tunnel closed
+160: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+160: not in cache
+160: Requesting "CONNECT" from www.baidu.com
+139: Responding "HTTP/1.1 200 OK"
+143: Responding "HTTP/1.1 200 OK"
+142: Responding "HTTP/1.1 200 OK"
+141: Responding "HTTP/1.1 200 OK"
+140: Responding "HTTP/1.1 200 OK"
+160: Responding "HTTP/1.1 200 OK"
+160: Tunnel closed
+123: Responding "HTTP/1.1 200 OK"
+123: Tunnel closed
+130: Responding "HTTP/1.1 200 OK"
+130: Tunnel closed
+129: Responding "HTTP/1.1 200 OK"
+129: Tunnel closed
+136: Responding "HTTP/1.1 200 OK"
+136: Tunnel closed
+137: Responding "HTTP/1.1 200 OK"
+137: Tunnel closed
+161: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+161: not in cache
+161: Requesting "CONNECT" from www.baidu.com
+120: Responding "HTTP/1.1 200 OK"
+120: Tunnel closed
+126: Responding "HTTP/1.1 200 OK"
+125: Responding "HTTP/1.1 200 OK"
+126: Tunnel closed
+152: Responding "HTTP/1.1 200 OK"
+152: Tunnel closed
+125: Tunnel closed
+127: Responding "HTTP/1.1 200 OK"
+127: Tunnel closed
+153: Responding "HTTP/1.1 200 OK"
+153: Tunnel closed
+161: Responding "HTTP/1.1 200 OK"
+162: "POST" from client @ Sat Feb 29 01:53:34 2020
+162: not in cache
+163: "POST" from client @ Sat Feb 29 01:53:34 2020
+163: not in cache
+163: Requesting "POST" from ocsp2.globalsign.com
+162: Requesting "POST" from ocsp2.globalsign.com
+164: "POST" from client @ Sat Feb 29 01:53:34 2020
+164: not in cache
+164: Requesting "POST" from ocsp2.globalsign.com
+162: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+163: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+164: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+143: Tunnel closed
+147: Tunnel closed
+165: "POST" from client @ Sat Feb 29 01:53:34 2020
+165: not in cache
+165: Requesting "POST" from ocsp2.globalsign.com
+139: Tunnel closed
+165: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+145: Responding "HTTP/1.1 200 OK"
+166: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+166: not in cache
+166: Requesting "CONNECT" from static.firefoxchina.cn
+167: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+167: not in cache
+167: Requesting "CONNECT" from api2.firefoxchina.cn
+166: Responding "HTTP/1.1 200 OK"
+167: Responding "HTTP/1.1 200 OK"
+168: "GET" from client @ Sat Feb 29 01:53:34 2020
+168: not in cache
+168: Requesting "GET" from detectportal.firefox.com
+168: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+168: not cacheable because Cache Control: no-store
+142: Tunnel closed
+169: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+169: not in cache
+169: Requesting "CONNECT" from youtube.com
+169: Responding "HTTP/1.1 200 OK"
+170: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+170: not in cache
+170: Requesting "CONNECT" from www.youtube.com
+170: Responding "HTTP/1.1 200 OK"
+171: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+171: not in cache
+171: Requesting "CONNECT" from i.ytimg.com
+171: Responding "HTTP/1.1 200 OK"
+172: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+172: not in cache
+172: Requesting "CONNECT" from www.gstatic.com
+172: Responding "HTTP/1.1 200 OK"
+173: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+173: not in cache
+173: Requesting "CONNECT" from fonts.googleapis.com
+173: Responding "HTTP/1.1 200 OK"
+174: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+174: not in cache
+174: Requesting "CONNECT" from yt3.ggpht.com
+175: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+175: not in cache
+176: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+176: not in cache
+176: Requesting "CONNECT" from yt3.ggpht.com
+177: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+177: not in cache
+177: Requesting "CONNECT" from yt3.ggpht.com
+178: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+178: not in cache
+179: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+179: not in cache
+179: Requesting "CONNECT" from yt3.ggpht.com
+175: Requesting "CONNECT" from yt3.ggpht.com
+178: Requesting "CONNECT" from yt3.ggpht.com
+177: Responding "HTTP/1.1 200 OK"
+178: Responding "HTTP/1.1 200 OK"
+174: Responding "HTTP/1.1 200 OK"
+179: Responding "HTTP/1.1 200 OK"
+176: Responding "HTTP/1.1 200 OK"
+175: Responding "HTTP/1.1 200 OK"
+179: Tunnel closed
+175: Tunnel closed
+174: Tunnel closed
+177: Tunnel closed
+178: Tunnel closed
+180: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+180: not in cache
+181: "GET" from client @ Sat Feb 29 01:53:34 2020
+181: not in cache
+180: Requesting "CONNECT" from fonts.gstatic.com
+182: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+182: not in cache
+183: "POST" from client @ Sat Feb 29 01:53:34 2020
+183: not in cache
+184: "POST" from client @ Sat Feb 29 01:53:34 2020
+184: not in cache
+185: "POST" from client @ Sat Feb 29 01:53:34 2020
+185: not in cache
+183: Requesting "POST" from ocsp.pki.goog
+184: Requesting "POST" from ocsp.pki.goog
+182: Requesting "CONNECT" from accounts.google.com
+186: "POST" from client @ Sat Feb 29 01:53:34 2020
+186: not in cache
+187: "POST" from client @ Sat Feb 29 01:53:34 2020
+187: not in cache
+188: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+188: not in cache
+189: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+189: not in cache
+190: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+190: not in cache
+191: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+191: not in cache
+192: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+192: not in cache
+193: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+193: not in cache
+194: "GET" from client @ Sat Feb 29 01:53:34 2020
+194: not in cache
+193: Requesting "CONNECT" from fonts.gstatic.com
+194: Requesting "GET" from detectportal.firefox.com
+192: Requesting "CONNECT" from www.google.com
+191: Requesting "CONNECT" from fonts.gstatic.com
+190: Requesting "CONNECT" from fonts.gstatic.com
+189: Requesting "CONNECT" from fonts.gstatic.com
+186: Requesting "POST" from ocsp.pki.goog
+188: Requesting "CONNECT" from googleads.g.doubleclick.net
+187: Requesting "POST" from ocsp.pki.goog
+181: Requesting "GET" from detectportal.firefox.com
+185: Requesting "POST" from ocsp.pki.goog
+180: Responding "HTTP/1.1 200 OK"
+182: Responding "HTTP/1.1 200 OK"
+192: Responding "HTTP/1.1 200 OK"
+188: Responding "HTTP/1.1 200 OK"
+189: Responding "HTTP/1.1 200 OK"
+193: Responding "HTTP/1.1 200 OK"
+191: Responding "HTTP/1.1 200 OK"
+190: Responding "HTTP/1.1 200 OK"
+194: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+194: not cacheable because Cache Control: no-store
+181: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+181: not cacheable because Cache Control: no-store
+183: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+186: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+184: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+185: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+187: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+191: Tunnel closed
+195: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+195: not in cache
+196: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+196: not in cache
+195: Requesting "CONNECT" from s.ytimg.com
+196: Requesting "CONNECT" from s.ytimg.com
+196: Responding "HTTP/1.1 200 OK"
+195: Responding "HTTP/1.1 200 OK"
+190: Tunnel closed
+193: Tunnel closed
+189: Tunnel closed
+195: Tunnel closed
+182: Tunnel closed
+197: "GET" from client @ Sat Feb 29 01:53:34 2020
+197: not in cache
+197: Requesting "GET" from detectportal.firefox.com
+197: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+197: not cacheable because Cache Control: no-store
+161: Tunnel closed
+198: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+198: not in cache
+198: Requesting "CONNECT" from www.baidu.com
+140: Tunnel closed
+198: Responding "HTTP/1.1 200 OK"
+198: Tunnel closed
+124: Tunnel closed
+199: "GET" from client @ Sat Feb 29 01:53:34 2020
+199: not in cache
+199: Requesting "GET" from youku.com
+199: Received "HTTP/1.1 301 Moved Permanently" from youku.com
+200: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+200: not in cache
+200: Requesting "CONNECT" from youku.com
+200: Responding "HTTP/1.1 200 OK"
+201: "GET" from client @ Sat Feb 29 01:53:34 2020
+201: not in cache
+201: Requesting "GET" from detectportal.firefox.com
+201: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+201: not cacheable because Cache Control: no-store
+103: Tunnel closed
+202: "GET" from client @ Sat Feb 29 01:53:34 2020
+202: not in cache
+202: Requesting "GET" from detectportal.firefox.com
+202: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+202: not cacheable because Cache Control: no-store
+135: Tunnel closed
+122: Tunnel closed
+134: Tunnel closed
+118: Tunnel closed
+144: Tunnel closed
+145: Tunnel closed
+203: "GET" from client @ Sat Feb 29 01:53:34 2020
+203: not in cache
+203: Requesting "GET" from detectportal.firefox.com
+203: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+203: not cacheable because Cache Control: no-store
+117: Tunnel closed
+167: Tunnel closed
+166: Tunnel closed
+204: "GET" from client @ Sat Feb 29 01:53:34 2020
+204: not in cache
+204: Requesting "GET" from detectportal.firefox.com
+204: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+204: not cacheable because Cache Control: no-store
+205: "GET" from client @ Sat Feb 29 01:53:34 2020
+205: not in cache
+205: Requesting "GET" from www.youku.com
+205: Received "HTTP/1.1 301 Moved Permanently" from www.youku.com
+206: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+206: not in cache
+206: Requesting "CONNECT" from www.youku.com
+206: Responding "HTTP/1.1 200 OK"
+207: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+207: not in cache
+207: Requesting "CONNECT" from g.alicdn.com
+208: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+208: not in cache
+208: Requesting "CONNECT" from g.alicdn.com
+209: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+209: not in cache
+209: Requesting "CONNECT" from g.alicdn.com
+210: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+210: not in cache
+210: Requesting "CONNECT" from g.alicdn.com
+209: Responding "HTTP/1.1 200 OK"
+207: Responding "HTTP/1.1 200 OK"
+208: Responding "HTTP/1.1 200 OK"
+210: Responding "HTTP/1.1 200 OK"
+105: Tunnel closed
+208: Tunnel closed
+210: Tunnel closed
+211: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+211: not in cache
+212: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+212: not in cache
+211: Requesting "CONNECT" from img.alicdn.com
+207: Tunnel closed
+213: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+212: Requesting "CONNECT" from img.alicdn.com
+213: not in cache
+214: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+214: not in cache
+215: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+215: not in cache
+214: Requesting "CONNECT" from ykimg.alicdn.com
+216: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+216: not in cache
+215: Requesting "CONNECT" from ykimg.alicdn.com
+216: Requesting "CONNECT" from liangcang-material.alicdn.com
+213: Requesting "CONNECT" from img.alicdn.com
+217: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+217: not in cache
+217: Requesting "CONNECT" from liangcang-material.alicdn.com
+218: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+218: not in cache
+218: Requesting "CONNECT" from liangcang-material.alicdn.com
+211: Responding "HTTP/1.1 200 OK"
+212: Responding "HTTP/1.1 200 OK"
+213: Responding "HTTP/1.1 200 OK"
+219: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+219: not in cache
+219: Requesting "CONNECT" from r1.ykimg.com
+220: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+220: not in cache
+221: "POST" from client @ Sat Feb 29 01:53:34 2020
+220: Requesting "CONNECT" from r1.ykimg.com
+221: not in cache
+222: "POST" from client @ Sat Feb 29 01:53:34 2020
+222: not in cache
+223: "POST" from client @ Sat Feb 29 01:53:34 2020
+223: not in cache
+224: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+224: not in cache
+225: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+225: not in cache
+226: "GET" from client @ Sat Feb 29 01:53:34 2020
+226: not in cache
+227: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+227: not in cache
+224: Requesting "CONNECT" from g.alicdn.com
+228: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+228: not in cache
+229: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+229: not in cache
+226: Requesting "GET" from detectportal.firefox.com
+223: Requesting "POST" from ocsp2.globalsign.com
+227: Requesting "CONNECT" from ykimg.alicdn.com
+230: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+221: Requesting "POST" from ocsp2.globalsign.com
+230: not in cache
+222: Requesting "POST" from ocsp2.globalsign.com
+230: Requesting "CONNECT" from ykimg.alicdn.com
+231: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+231: not in cache
+232: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+231: Requesting "CONNECT" from pc.pay.youku.com
+232: not in cache
+233: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+233: not in cache
+232: Requesting "CONNECT" from liangcang-material.alicdn.com
+234: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+234: not in cache
+233: Requesting "CONNECT" from liangcang-material.alicdn.com
+235: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+235: not in cache
+225: Requesting "CONNECT" from g.alicdn.com
+234: Requesting "CONNECT" from liangcang-material.alicdn.com
+229: Requesting "CONNECT" from ykimg.alicdn.com
+228: Requesting "CONNECT" from ykimg.alicdn.com
+235: Requesting "CONNECT" from r1.ykimg.com
+216: Responding "HTTP/1.1 200 OK"
+218: Responding "HTTP/1.1 200 OK"
+217: Responding "HTTP/1.1 200 OK"
+226: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+226: not cacheable because Cache Control: no-store
+236: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+236: not in cache
+236: Requesting "CONNECT" from img.alicdn.com
+237: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+237: not in cache
+238: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+238: not in cache
+238: Requesting "CONNECT" from gw.alicdn.com
+237: Requesting "CONNECT" from gw.alicdn.com
+224: Responding "HTTP/1.1 200 OK"
+222: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+223: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+233: Responding "HTTP/1.1 200 OK"
+225: Responding "HTTP/1.1 200 OK"
+232: Responding "HTTP/1.1 200 OK"
+234: Responding "HTTP/1.1 200 OK"
+236: Responding "HTTP/1.1 200 OK"
+221: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+239: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+239: not in cache
+239: Requesting "CONNECT" from gw.alicdn.com
+240: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+240: not in cache
+240: Requesting "CONNECT" from img.alicdn.com
+241: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+241: not in cache
+241: Requesting "CONNECT" from gw.alicdn.com
+240: Responding "HTTP/1.1 200 OK"
+242: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+242: not in cache
+242: Requesting "CONNECT" from r1.ykimg.com
+243: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+243: not in cache
+243: Requesting "CONNECT" from r1.ykimg.com
+244: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+244: not in cache
+244: Requesting "CONNECT" from r1.ykimg.com
+245: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+245: not in cache
+245: Requesting "CONNECT" from gw.alicdn.com
+212: Tunnel closed
+239: Responding "HTTP/1.1 200 OK"
+238: Responding "HTTP/1.1 200 OK"
+237: Responding "HTTP/1.1 200 OK"
+213: Tunnel closed
+241: Responding "HTTP/1.1 200 OK"
+245: Responding "HTTP/1.1 200 OK"
+227: Responding "HTTP/1.1 200 OK"
+229: Responding "HTTP/1.1 200 OK"
+214: Responding "HTTP/1.1 200 OK"
+215: Responding "HTTP/1.1 200 OK"
+228: Responding "HTTP/1.1 200 OK"
+217: Tunnel closed
+224: Tunnel closed
+232: Tunnel closed
+218: Tunnel closed
+225: Tunnel closed
+246: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+246: not in cache
+246: Requesting "CONNECT" from log.mmstat.com
+236: Tunnel closed
+231: Responding "HTTP/1.1 200 OK"
+234: Tunnel closed
+233: Tunnel closed
+240: Tunnel closed
+220: Responding "HTTP/1.1 200 OK"
+235: Responding "HTTP/1.1 200 OK"
+244: Responding "HTTP/1.1 200 OK"
+239: Tunnel closed
+245: Tunnel closed
+237: Tunnel closed
+241: Tunnel closed
+246: Responding "HTTP/1.1 200 OK"
+219: Responding "HTTP/1.1 200 OK"
+243: Responding "HTTP/1.1 200 OK"
+242: Responding "HTTP/1.1 200 OK"
+229: Tunnel closed
+230: Responding "HTTP/1.1 200 OK"
+228: Tunnel closed
+215: Tunnel closed
+227: Tunnel closed
+230: Tunnel closed
+247: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+247: not in cache
+248: "POST" from client @ Sat Feb 29 01:53:34 2020
+248: not in cache
+249: "POST" from client @ Sat Feb 29 01:53:34 2020
+249: not in cache
+250: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+250: not in cache
+251: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+251: not in cache
+252: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+252: not in cache
+253: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+253: not in cache
+254: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+254: not in cache
+255: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+255: not in cache
+256: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+256: not in cache
+257: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+257: not in cache
+258: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+258: not in cache
+252: Requesting "CONNECT" from sealine.youku.com
+253: Requesting "CONNECT" from sealine.youku.com
+254: Requesting "CONNECT" from sealine.youku.com
+255: Requesting "CONNECT" from acs.youku.com
+256: Requesting "CONNECT" from acs.youku.com
+257: Requesting "CONNECT" from sealine.youku.com
+258: Requesting "CONNECT" from account.youku.com
+251: Requesting "CONNECT" from sealine.youku.com
+250: Requesting "CONNECT" from static.youku.com
+249: Requesting "POST" from ocsp2.globalsign.com
+248: Requesting "POST" from ocsp2.globalsign.com
+247: Requesting "CONNECT" from log.mmstat.com
+220: Tunnel closed
+248: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+244: Tunnel closed
+259: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+259: not in cache
+259: Requesting "CONNECT" from aeu.alicdn.com
+260: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+260: not in cache
+260: Requesting "CONNECT" from cmstool.youku.com
+243: Tunnel closed
+242: Tunnel closed
+249: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+219: Tunnel closed
+259: Responding "HTTP/1.1 200 OK"
+252: Responding "HTTP/1.1 200 OK"
+257: Responding "HTTP/1.1 200 OK"
+250: Responding "HTTP/1.1 200 OK"
+254: Responding "HTTP/1.1 200 OK"
+253: Responding "HTTP/1.1 200 OK"
+251: Responding "HTTP/1.1 200 OK"
+260: Responding "HTTP/1.1 200 OK"
+247: Responding "HTTP/1.1 200 OK"
+261: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+261: not in cache
+261: Requesting "CONNECT" from gm.mmstat.com
+255: Responding "HTTP/1.1 200 OK"
+256: Responding "HTTP/1.1 200 OK"
+258: Responding "HTTP/1.1 200 OK"
+262: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+262: not in cache
+262: Requesting "CONNECT" from gm.mmstat.com
+263: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+263: not in cache
+263: Requesting "CONNECT" from gm.mmstat.com
+264: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+264: not in cache
+264: Requesting "CONNECT" from gm.mmstat.com
+265: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+265: not in cache
+265: Requesting "CONNECT" from gm.mmstat.com
+266: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+266: not in cache
+266: Requesting "CONNECT" from af.alicdn.com
+263: Responding "HTTP/1.1 200 OK"
+261: Responding "HTTP/1.1 200 OK"
+264: Responding "HTTP/1.1 200 OK"
+262: Responding "HTTP/1.1 200 OK"
+267: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+267: not in cache
+267: Requesting "CONNECT" from gm.mmstat.com
+265: Responding "HTTP/1.1 200 OK"
+266: Responding "HTTP/1.1 200 OK"
+267: Responding "HTTP/1.1 200 OK"
+263: Tunnel closed
+262: Tunnel closed
+264: Tunnel closed
+265: Tunnel closed
+267: Tunnel closed
+252: Tunnel closed
+268: "GET" from client @ Sat Feb 29 01:53:34 2020
+268: not in cache
+268: Requesting "GET" from detectportal.firefox.com
+247: Tunnel closed
+268: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+268: not cacheable because Cache Control: no-store
+254: Tunnel closed
+253: Tunnel closed
+269: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+269: not in cache
+269: Requesting "CONNECT" from bjlwi5.tdum.alibaba.com
+251: Tunnel closed
+270: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+270: not in cache
+270: Requesting "CONNECT" from pcookie.youku.com
+271: "CONNECT" from client @ Sat Feb 29 01:53:34 2020
+271: not in cache
+271: Requesting "CONNECT" from ems.youku.com
+269: Responding "HTTP/1.1 200 OK"
+271: Responding "HTTP/1.1 200 OK"
+250: Tunnel closed
+269: Tunnel closed
+271: Tunnel closed
+270: Responding "HTTP/1.1 200 OK"
+270: Tunnel closed
+261: Tunnel closed
+231: Tunnel closed
+259: Tunnel closed
+257: Tunnel closed
+256: Tunnel closed
+258: Tunnel closed
+238: Tunnel closed
+255: Tunnel closed
+216: Tunnel closed
+214: Tunnel closed
+235: Tunnel closed
+209: Tunnel closed
+211: Tunnel closed
+206: Tunnel closed
+172: Tunnel closed
+171: Tunnel closed
+170: Tunnel closed
+169: Tunnel closed
+173: Tunnel closed
+156: Tunnel closed
+180: Tunnel closed
+192: Tunnel closed
+141: Tunnel closed
+151: Tunnel closed
+260: Tunnel closed
+176: Tunnel closed
+188: Tunnel closed
+110: Tunnel closed
+266: Tunnel closed
+246: Tunnel closed
+200: Tunnel closed
+196: Tunnel closed
+100: "GET" from client @ Sat Feb 29 02:31:52 2020
+100: not in cache
+100: Requesting "GET" from detectportal.firefox.com
+100: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+100: not cacheable because Cache Control: no-store
+101: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+101: not in cache
+101: Requesting "CONNECT" from content-signature-2.cdn.mozilla.net
+101: Responding "HTTP/1.1 200 OK"
+101: Tunnel closed
+102: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+102: not in cache
+102: Requesting "CONNECT" from home.firefoxchina.cn
+103: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+103: not in cache
+103: Requesting "CONNECT" from tracking.firefox.com.cn
+102: Responding "HTTP/1.1 200 OK"
+103: Responding "HTTP/1.1 200 OK"
+102: Tunnel closed
+104: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+104: not in cache
+103: Tunnel closed
+105: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+105: not in cache
+104: Requesting "CONNECT" from firefox.settings.services.mozilla.com
+106: "POST" from client @ Sat Feb 29 02:31:52 2020
+106: not in cache
+107: "GET" from client @ Sat Feb 29 02:31:52 2020
+107: not in cache
+108: "GET" from client @ Sat Feb 29 02:31:52 2020
+108: not in cache
+106: Requesting "POST" from status.rapidssl.com
+109: "GET" from client @ Sat Feb 29 02:31:52 2020
+109: not in cache
+108: Requesting "GET" from addons.g-fox.cn
+110: "POST" from client @ Sat Feb 29 02:31:52 2020
+110: not in cache
+111: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+111: not in cache
+110: Requesting "POST" from status.rapidssl.com
+112: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+112: not in cache
+107: Requesting "GET" from addons.g-fox.cn
+112: Requesting "CONNECT" from offlintab.firefoxchina.cn
+113: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+109: Requesting "GET" from addons.g-fox.cn
+113: not in cache
+114: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+114: not in cache
+115: "GET" from client @ Sat Feb 29 02:31:52 2020
+115: not in cache
+116: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+116: not in cache
+117: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+117: not in cache
+118: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+118: not in cache
+119: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+119: not in cache
+120: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+120: not in cache
+121: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+121: not in cache
+122: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+122: not in cache
+123: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+123: not in cache
+124: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+124: not in cache
+125: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+125: not in cache
+126: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+126: not in cache
+127: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+127: not in cache
+128: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+128: not in cache
+129: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+129: not in cache
+130: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+130: not in cache
+131: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+131: not in cache
+132: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+132: not in cache
+133: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+133: not in cache
+134: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+134: not in cache
+135: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+135: not in cache
+136: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+136: not in cache
+137: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+137: not in cache
+111: Requesting "CONNECT" from safebrowsing.googleapis.com
+119: Requesting "CONNECT" from home.firefoxchina.cn
+105: Requesting "CONNECT" from incoming.telemetry.mozilla.org
+126: Requesting "CONNECT" from static.firefoxchina.cn
+113: Requesting "CONNECT" from bookmarks-ssl.firefoxchina.cn
+120: Requesting "CONNECT" from home.firefoxchina.cn
+138: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+138: not in cache
+139: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+139: not in cache
+140: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+140: not in cache
+129: Requesting "CONNECT" from www.duba.com
+141: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+141: not in cache
+128: Requesting "CONNECT" from home.firefoxchina.cn
+142: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+142: not in cache
+143: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+143: not in cache
+135: Requesting "CONNECT" from static.huohu123.com
+144: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+133: Requesting "CONNECT" from static.huohu123.com
+144: not in cache
+137: Requesting "CONNECT" from b.zol-img.com.cn
+145: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+145: not in cache
+134: Requesting "CONNECT" from static.huohu123.com
+146: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+146: not in cache
+140: Requesting "CONNECT" from b.zol-img.com.cn
+147: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+145: Requesting "CONNECT" from home.firefoxchina.cn
+147: not in cache
+148: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+144: Requesting "CONNECT" from home.firefoxchina.cn
+148: not in cache
+143: Requesting "CONNECT" from home.firefoxchina.cn
+149: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+149: not in cache
+150: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+150: not in cache
+142: Requesting "CONNECT" from xiazai-fd.zol-img.com.cn
+151: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+151: not in cache
+141: Requesting "CONNECT" from b.zol-img.com.cn
+152: "CONNECT" from client @ Sat Feb 29 02:31:52 2020
+152: not in cache
+148: Requesting "CONNECT" from publish-pic-cpu.baidu.com
+147: Requesting "CONNECT" from publish-pic-cpu.baidu.com
+146: Requesting "CONNECT" from nspt.bdstatic.com
+149: Requesting "CONNECT" from publish-pic-cpu.baidu.com
+150: Requesting "CONNECT" from fragment2.firefoxchina.cn
+151: Requesting "CONNECT" from static.firefoxchina.cn
+152: Requesting "CONNECT" from static.firefoxchina.cn
+138: Requesting "CONNECT" from b.zol-img.com.cn
+139: Requesting "CONNECT" from b.zol-img.com.cn
+114: Requesting "CONNECT" from img.alicdn.com
+125: Requesting "CONNECT" from static.firefoxchina.cn
+123: Requesting "CONNECT" from static.firefoxchina.cn
+130: Requesting "CONNECT" from static.huohu123.com
+124: Requesting "CONNECT" from entry.baidu.com
+127: Requesting "CONNECT" from static.firefoxchina.cn
+117: Requesting "CONNECT" from static.firefoxchina.cn
+122: Requesting "CONNECT" from home.firefoxchina.cn
+116: Requesting "CONNECT" from static.firefoxchina.cn
+118: Requesting "CONNECT" from home.firefoxchina.cn
+121: Requesting "CONNECT" from home.firefoxchina.cn
+115: Requesting "GET" from addons.g-fox.cn
+132: Requesting "CONNECT" from static.huohu123.com
+131: Requesting "CONNECT" from static.huohu123.com
+136: Requesting "CONNECT" from b.zol-img.com.cn
+111: Responding "HTTP/1.1 200 OK"
+111: Tunnel closed
+128: Responding "HTTP/1.1 200 OK"
+128: Tunnel closed
+104: Responding "HTTP/1.1 200 OK"
+104: Tunnel closed
+105: Responding "HTTP/1.1 200 OK"
+105: Tunnel closed
+114: Responding "HTTP/1.1 200 OK"
+114: Tunnel closed
+106: Received "HTTP/1.1 200 OK" from status.rapidssl.com
+124: Responding "HTTP/1.1 200 OK"
+124: Tunnel closed
+110: Received "HTTP/1.1 200 OK" from status.rapidssl.com
+112: Responding "HTTP/1.1 200 OK"
+112: Tunnel closed
+122: Responding "HTTP/1.1 200 OK"
+122: Tunnel closed
+145: Responding "HTTP/1.1 200 OK"
+145: Tunnel closed
+143: Responding "HTTP/1.1 200 OK"
+143: Tunnel closed
+120: Responding "HTTP/1.1 200 OK"
+120: Tunnel closed
+121: Responding "HTTP/1.1 200 OK"
+121: Tunnel closed
+119: Responding "HTTP/1.1 200 OK"
+119: Tunnel closed
+144: Responding "HTTP/1.1 200 OK"
+118: Responding "HTTP/1.1 200 OK"
+144: Tunnel closed
+118: Tunnel closed
+113: Responding "HTTP/1.1 200 OK"
+113: Tunnel closed
+109: Received "HTTP/1.1 200 OK" from addons.g-fox.cn
+109: cached, expires at Sat Feb 29 02:32:05 2020
+146: Responding "HTTP/1.1 200 OK"
+146: Tunnel closed
+150: Responding "HTTP/1.1 200 OK"
+150: Tunnel closed
+142: Responding "HTTP/1.1 200 OK"
+142: Tunnel closed
+133: Responding "HTTP/1.1 200 OK"
+133: Tunnel closed
+130: Responding "HTTP/1.1 200 OK"
+130: Tunnel closed
+152: Responding "HTTP/1.1 200 OK"
+152: Tunnel closed
+137: Responding "HTTP/1.1 200 OK"
+137: Tunnel closed
+151: Responding "HTTP/1.1 200 OK"
+151: Tunnel closed
+132: Responding "HTTP/1.1 200 OK"
+132: Tunnel closed
+138: Responding "HTTP/1.1 200 OK"
+138: Tunnel closed
+134: Responding "HTTP/1.1 200 OK"
+134: Tunnel closed
+117: Responding "HTTP/1.1 200 OK"
+117: Tunnel closed
+125: Responding "HTTP/1.1 200 OK"
+125: Tunnel closed
+108: Received "HTTP/1.1 200 OK" from addons.g-fox.cn
+108: cached, expires at Sat Feb 29 02:32:05 2020
+141: Responding "HTTP/1.1 200 OK"
+141: Tunnel closed
+136: Responding "HTTP/1.1 200 OK"
+136: Tunnel closed
+140: Responding "HTTP/1.1 200 OK"
+140: Tunnel closed
+139: Responding "HTTP/1.1 200 OK"
+139: Tunnel closed
+107: Received "HTTP/1.1 200 OK" from addons.g-fox.cn
+107: cached, expires at Sat Feb 29 02:32:06 2020
+129: Responding "HTTP/1.1 200 OK"
+129: Tunnel closed
+115: Received "HTTP/1.1 200 OK" from addons.g-fox.cn
+115: cached, expires at Sat Feb 29 02:32:06 2020
+131: Responding "HTTP/1.1 200 OK"
+131: Tunnel closed
+149: Responding "HTTP/1.1 200 OK"
+149: Tunnel closed
+147: Responding "HTTP/1.1 200 OK"
+147: Tunnel closed
+148: Responding "HTTP/1.1 200 OK"
+148: Tunnel closed
